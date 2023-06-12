@@ -12,7 +12,7 @@ def read(fname):
 
 data = {
     'name': 'djradicale',
-    'version': '0.0.16-bha',
+    'version': '0.0.16+bha',
     'author': 'Kyoken',
     'author_email': 'kyoken@kyoken.ninja',
     'description': (
